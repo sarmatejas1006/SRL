@@ -1,0 +1,748 @@
+{
+  "inputText": "But while OsCorp didn't fall apart on Monday as the RS McKinley average dropped 352.58 points -- most of it in the final two hours -- it barely managed to stay this side of chaos.",
+  "sentences": [
+    {
+      "predicates": [
+        {
+          "predicate": {
+            "endIndex": 28,
+            "startIndex": 24,
+            "word": "fall",
+            "predicate": true
+          },
+          "arguments": [
+            {
+              "semanticRole": "A1",
+              "words": [
+                {
+                  "endIndex": 16,
+                  "startIndex": 10,
+                  "word": "OsCorp"
+                }
+              ]
+            },
+            {
+              "semanticRole": "AM-NEG",
+              "words": [
+                {
+                  "endIndex": 23,
+                  "startIndex": 20,
+                  "word": "n't"
+                }
+              ]
+            },
+            {
+              "semanticRole": "V",
+              "words": [
+                {
+                  "endIndex": 28,
+                  "startIndex": 24,
+                  "word": "fall",
+                  "predicate": true
+                }
+              ]
+            },
+            {
+              "semanticRole": "A4",
+              "words": [
+                {
+                  "endIndex": 34,
+                  "startIndex": 29,
+                  "word": "apart"
+                }
+              ]
+            },
+            {
+              "semanticRole": "AM-TMP",
+              "words": [
+                {
+                  "endIndex": 37,
+                  "startIndex": 35,
+                  "word": "on"
+                },
+                {
+                  "endIndex": 44,
+                  "startIndex": 38,
+                  "word": "Monday"
+                }
+              ]
+            },
+            {
+              "semanticRole": "AM-ADV",
+              "words": [
+                {
+                  "endIndex": 47,
+                  "startIndex": 45,
+                  "word": "as"
+                },
+                {
+                  "endIndex": 51,
+                  "startIndex": 48,
+                  "word": "the"
+                },
+                {
+                  "endIndex": 54,
+                  "startIndex": 52,
+                  "word": "RS"
+                },
+                {
+                  "endIndex": 63,
+                  "startIndex": 55,
+                  "word": "McKinley"
+                },
+                {
+                  "endIndex": 71,
+                  "startIndex": 64,
+                  "word": "average"
+                },
+                {
+                  "endIndex": 79,
+                  "startIndex": 72,
+                  "word": "dropped",
+                  "predicate": true
+                },
+                {
+                  "endIndex": 86,
+                  "startIndex": 80,
+                  "word": "352.58"
+                },
+                {
+                  "endIndex": 93,
+                  "startIndex": 87,
+                  "word": "points"
+                },
+                {
+                  "endIndex": 96,
+                  "startIndex": 94,
+                  "word": "--"
+                },
+                {
+                  "endIndex": 101,
+                  "startIndex": 97,
+                  "word": "most"
+                },
+                {
+                  "endIndex": 104,
+                  "startIndex": 102,
+                  "word": "of"
+                },
+                {
+                  "endIndex": 107,
+                  "startIndex": 105,
+                  "word": "it"
+                },
+                {
+                  "endIndex": 110,
+                  "startIndex": 108,
+                  "word": "in"
+                },
+                {
+                  "endIndex": 114,
+                  "startIndex": 111,
+                  "word": "the"
+                },
+                {
+                  "endIndex": 120,
+                  "startIndex": 115,
+                  "word": "final"
+                },
+                {
+                  "endIndex": 124,
+                  "startIndex": 121,
+                  "word": "two"
+                },
+                {
+                  "endIndex": 130,
+                  "startIndex": 125,
+                  "word": "hours"
+                },
+                {
+                  "endIndex": 133,
+                  "startIndex": 131,
+                  "word": "--"
+                },
+                {
+                  "endIndex": 136,
+                  "startIndex": 134,
+                  "word": "it"
+                },
+                {
+                  "endIndex": 143,
+                  "startIndex": 137,
+                  "word": "barely"
+                },
+                {
+                  "endIndex": 151,
+                  "startIndex": 144,
+                  "word": "managed",
+                  "predicate": true
+                },
+                {
+                  "endIndex": 154,
+                  "startIndex": 152,
+                  "word": "to"
+                },
+                {
+                  "endIndex": 159,
+                  "startIndex": 155,
+                  "word": "stay",
+                  "predicate": true
+                },
+                {
+                  "endIndex": 164,
+                  "startIndex": 160,
+                  "word": "this"
+                },
+                {
+                  "endIndex": 169,
+                  "startIndex": 165,
+                  "word": "side"
+                },
+                {
+                  "endIndex": 172,
+                  "startIndex": 170,
+                  "word": "of"
+                },
+                {
+                  "endIndex": 178,
+                  "startIndex": 173,
+                  "word": "chaos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "predicate": {
+            "endIndex": 79,
+            "startIndex": 72,
+            "word": "dropped",
+            "predicate": true
+          },
+          "arguments": [
+            {
+              "semanticRole": "A1",
+              "words": [
+                {
+                  "endIndex": 51,
+                  "startIndex": 48,
+                  "word": "the"
+                },
+                {
+                  "endIndex": 54,
+                  "startIndex": 52,
+                  "word": "RS"
+                },
+                {
+                  "endIndex": 63,
+                  "startIndex": 55,
+                  "word": "McKinley"
+                },
+                {
+                  "endIndex": 71,
+                  "startIndex": 64,
+                  "word": "average"
+                }
+              ]
+            },
+            {
+              "semanticRole": "V",
+              "words": [
+                {
+                  "endIndex": 79,
+                  "startIndex": 72,
+                  "word": "dropped",
+                  "predicate": true
+                }
+              ]
+            },
+            {
+              "semanticRole": "A2",
+              "words": [
+                {
+                  "endIndex": 86,
+                  "startIndex": 80,
+                  "word": "352.58"
+                },
+                {
+                  "endIndex": 93,
+                  "startIndex": 87,
+                  "word": "points"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "predicate": {
+            "endIndex": 151,
+            "startIndex": 144,
+            "word": "managed",
+            "predicate": true
+          },
+          "arguments": [
+            {
+              "semanticRole": "AM-DIS",
+              "words": [
+                {
+                  "endIndex": 3,
+                  "startIndex": 0,
+                  "word": "But"
+                }
+              ]
+            },
+            {
+              "semanticRole": "AM-ADV",
+              "words": [
+                {
+                  "endIndex": 9,
+                  "startIndex": 4,
+                  "word": "while"
+                },
+                {
+                  "endIndex": 16,
+                  "startIndex": 10,
+                  "word": "OsCorp"
+                },
+                {
+                  "endIndex": 20,
+                  "startIndex": 17,
+                  "word": "did"
+                },
+                {
+                  "endIndex": 23,
+                  "startIndex": 20,
+                  "word": "n't"
+                },
+                {
+                  "endIndex": 28,
+                  "startIndex": 24,
+                  "word": "fall",
+                  "predicate": true
+                },
+                {
+                  "endIndex": 34,
+                  "startIndex": 29,
+                  "word": "apart"
+                },
+                {
+                  "endIndex": 37,
+                  "startIndex": 35,
+                  "word": "on"
+                },
+                {
+                  "endIndex": 44,
+                  "startIndex": 38,
+                  "word": "Monday"
+                },
+                {
+                  "endIndex": 47,
+                  "startIndex": 45,
+                  "word": "as"
+                },
+                {
+                  "endIndex": 51,
+                  "startIndex": 48,
+                  "word": "the"
+                },
+                {
+                  "endIndex": 54,
+                  "startIndex": 52,
+                  "word": "RS"
+                },
+                {
+                  "endIndex": 63,
+                  "startIndex": 55,
+                  "word": "McKinley"
+                },
+                {
+                  "endIndex": 71,
+                  "startIndex": 64,
+                  "word": "average"
+                },
+                {
+                  "endIndex": 79,
+                  "startIndex": 72,
+                  "word": "dropped",
+                  "predicate": true
+                },
+                {
+                  "endIndex": 86,
+                  "startIndex": 80,
+                  "word": "352.58"
+                },
+                {
+                  "endIndex": 93,
+                  "startIndex": 87,
+                  "word": "points"
+                },
+                {
+                  "endIndex": 96,
+                  "startIndex": 94,
+                  "word": "--"
+                },
+                {
+                  "endIndex": 101,
+                  "startIndex": 97,
+                  "word": "most"
+                },
+                {
+                  "endIndex": 104,
+                  "startIndex": 102,
+                  "word": "of"
+                },
+                {
+                  "endIndex": 107,
+                  "startIndex": 105,
+                  "word": "it"
+                },
+                {
+                  "endIndex": 110,
+                  "startIndex": 108,
+                  "word": "in"
+                },
+                {
+                  "endIndex": 114,
+                  "startIndex": 111,
+                  "word": "the"
+                },
+                {
+                  "endIndex": 120,
+                  "startIndex": 115,
+                  "word": "final"
+                },
+                {
+                  "endIndex": 124,
+                  "startIndex": 121,
+                  "word": "two"
+                },
+                {
+                  "endIndex": 130,
+                  "startIndex": 125,
+                  "word": "hours"
+                }
+              ]
+            },
+            {
+              "semanticRole": "A0",
+              "words": [
+                {
+                  "endIndex": 136,
+                  "startIndex": 134,
+                  "word": "it"
+                }
+              ]
+            },
+            {
+              "semanticRole": "AM-MNR",
+              "words": [
+                {
+                  "endIndex": 143,
+                  "startIndex": 137,
+                  "word": "barely"
+                }
+              ]
+            },
+            {
+              "semanticRole": "V",
+              "words": [
+                {
+                  "endIndex": 151,
+                  "startIndex": 144,
+                  "word": "managed",
+                  "predicate": true
+                }
+              ]
+            },
+            {
+              "semanticRole": "A1",
+              "words": [
+                {
+                  "endIndex": 154,
+                  "startIndex": 152,
+                  "word": "to"
+                },
+                {
+                  "endIndex": 159,
+                  "startIndex": 155,
+                  "word": "stay",
+                  "predicate": true
+                },
+                {
+                  "endIndex": 164,
+                  "startIndex": 160,
+                  "word": "this"
+                },
+                {
+                  "endIndex": 169,
+                  "startIndex": 165,
+                  "word": "side"
+                },
+                {
+                  "endIndex": 172,
+                  "startIndex": 170,
+                  "word": "of"
+                },
+                {
+                  "endIndex": 178,
+                  "startIndex": 173,
+                  "word": "chaos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "predicate": {
+            "endIndex": 159,
+            "startIndex": 155,
+            "word": "stay",
+            "predicate": true
+          },
+          "arguments": [
+            {
+              "semanticRole": "A1",
+              "words": [
+                {
+                  "endIndex": 136,
+                  "startIndex": 134,
+                  "word": "it"
+                }
+              ]
+            },
+            {
+              "semanticRole": "V",
+              "words": [
+                {
+                  "endIndex": 159,
+                  "startIndex": 155,
+                  "word": "stay",
+                  "predicate": true
+                }
+              ]
+            },
+            {
+              "semanticRole": "A3",
+              "words": [
+                {
+                  "endIndex": 164,
+                  "startIndex": 160,
+                  "word": "this"
+                },
+                {
+                  "endIndex": 169,
+                  "startIndex": 165,
+                  "word": "side"
+                },
+                {
+                  "endIndex": 172,
+                  "startIndex": 170,
+                  "word": "of"
+                },
+                {
+                  "endIndex": 178,
+                  "startIndex": 173,
+                  "word": "chaos"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "endIndex": 179,
+      "startIndex": 0,
+      "words": [
+        {
+          "endIndex": 3,
+          "startIndex": 0,
+          "word": "But"
+        },
+        {
+          "endIndex": 9,
+          "startIndex": 4,
+          "word": "while"
+        },
+        {
+          "endIndex": 16,
+          "startIndex": 10,
+          "word": "OsCorp"
+        },
+        {
+          "endIndex": 20,
+          "startIndex": 17,
+          "word": "did"
+        },
+        {
+          "endIndex": 23,
+          "startIndex": 20,
+          "word": "n't"
+        },
+        {
+          "endIndex": 28,
+          "startIndex": 24,
+          "word": "fall",
+          "predicate": true
+        },
+        {
+          "endIndex": 34,
+          "startIndex": 29,
+          "word": "apart"
+        },
+        {
+          "endIndex": 37,
+          "startIndex": 35,
+          "word": "on"
+        },
+        {
+          "endIndex": 44,
+          "startIndex": 38,
+          "word": "Monday"
+        },
+        {
+          "endIndex": 47,
+          "startIndex": 45,
+          "word": "as"
+        },
+        {
+          "endIndex": 51,
+          "startIndex": 48,
+          "word": "the"
+        },
+        {
+          "endIndex": 54,
+          "startIndex": 52,
+          "word": "RS"
+        },
+        {
+          "endIndex": 63,
+          "startIndex": 55,
+          "word": "McKinley"
+        },
+        {
+          "endIndex": 71,
+          "startIndex": 64,
+          "word": "average"
+        },
+        {
+          "endIndex": 79,
+          "startIndex": 72,
+          "word": "dropped",
+          "predicate": true
+        },
+        {
+          "endIndex": 86,
+          "startIndex": 80,
+          "word": "352.58"
+        },
+        {
+          "endIndex": 93,
+          "startIndex": 87,
+          "word": "points"
+        },
+        {
+          "endIndex": 96,
+          "startIndex": 94,
+          "word": "--"
+        },
+        {
+          "endIndex": 101,
+          "startIndex": 97,
+          "word": "most"
+        },
+        {
+          "endIndex": 104,
+          "startIndex": 102,
+          "word": "of"
+        },
+        {
+          "endIndex": 107,
+          "startIndex": 105,
+          "word": "it"
+        },
+        {
+          "endIndex": 110,
+          "startIndex": 108,
+          "word": "in"
+        },
+        {
+          "endIndex": 114,
+          "startIndex": 111,
+          "word": "the"
+        },
+        {
+          "endIndex": 120,
+          "startIndex": 115,
+          "word": "final"
+        },
+        {
+          "endIndex": 124,
+          "startIndex": 121,
+          "word": "two"
+        },
+        {
+          "endIndex": 130,
+          "startIndex": 125,
+          "word": "hours"
+        },
+        {
+          "endIndex": 133,
+          "startIndex": 131,
+          "word": "--"
+        },
+        {
+          "endIndex": 136,
+          "startIndex": 134,
+          "word": "it"
+        },
+        {
+          "endIndex": 143,
+          "startIndex": 137,
+          "word": "barely"
+        },
+        {
+          "endIndex": 151,
+          "startIndex": 144,
+          "word": "managed",
+          "predicate": true
+        },
+        {
+          "endIndex": 154,
+          "startIndex": 152,
+          "word": "to"
+        },
+        {
+          "endIndex": 159,
+          "startIndex": 155,
+          "word": "stay",
+          "predicate": true
+        },
+        {
+          "endIndex": 164,
+          "startIndex": 160,
+          "word": "this"
+        },
+        {
+          "endIndex": 169,
+          "startIndex": 165,
+          "word": "side"
+        },
+        {
+          "endIndex": 172,
+          "startIndex": 170,
+          "word": "of"
+        },
+        {
+          "endIndex": 178,
+          "startIndex": 173,
+          "word": "chaos"
+        },
+        {
+          "endIndex": 179,
+          "startIndex": 178,
+          "word": "."
+        }
+      ],
+      "sentenceText": "But while OsCorp didn't fall apart on Monday as the RS McKinley average dropped 352.58 points -- most of it in the final two hours -- it barely managed to stay this side of chaos."
+    }
+  ]
+}
