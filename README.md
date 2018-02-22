@@ -1,5 +1,5 @@
 # SRL
-End-to-end Learning of Semantic Role Labeling Using Recurrent Neural
+<h2>End-to-end Learning of Semantic Role Labeling Using Recurrent Neural Networks</h2>
 
 API given by Pragmacraft.
 <a href="https://market.mashape.com/pragmacraft/semantic-role-labeling">Link to API</a>
